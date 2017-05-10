@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 0.9" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
+<metadata><copyright author="OpenStreetMap contributors"/><link href="http://graphhopper.com"><text>GraphHopper GPX</text></link><time>2017-03-21T21:18:30Z</time></metadata>
+<rte>
+<rtept lat="51.133828" lon="6.303239"><desc>continue onto Prämienstraße</desc><extensions><gh:distance>703.3</gh:distance><gh:time>90420</gh:time><gh:direction>SE</gh:direction><gh:azimuth>124.3</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.131313" lon="6.312254"><desc>turn right onto Grenzlandring, L 400</desc><extensions><gh:distance>140.7</gh:distance><gh:time>10600</gh:time><gh:direction>SW</gh:direction><gh:azimuth>204.02</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="51.130249" lon="6.312191"><desc>continue onto L 127</desc><extensions><gh:distance>162.1</gh:distance><gh:time>9116</gh:time><gh:direction>E</gh:direction><gh:azimuth>74.59</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.130465" lon="6.314478"><desc>continue onto Am Alten Schlagbaum, L 127</desc><extensions><gh:distance>443.9</gh:distance><gh:time>24966</gh:time><gh:direction>E</gh:direction><gh:azimuth>96.72</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.129434" lon="6.320613"><desc>continue onto L 127</desc><extensions><gh:distance>7.9</gh:distance><gh:time>441</gh:time><gh:direction>E</gh:direction><gh:azimuth>106.87</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.129413" lon="6.320721"><desc>continue onto Am Alten Schlagbaum, L 127</desc><extensions><gh:distance>106.6</gh:distance><gh:time>5994</gh:time><gh:direction>E</gh:direction><gh:azimuth>106.21</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.129142" lon="6.322185"><desc>continue onto L 127</desc><extensions><gh:distance>9.8</gh:distance><gh:time>553</gh:time><gh:direction>E</gh:direction><gh:azimuth>107.01</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.129116" lon="6.32232"><desc>continue onto Am Alten Schlagbaum, L 127</desc><extensions><gh:distance>1025.8</gh:distance><gh:time>57700</gh:time><gh:direction>E</gh:direction><gh:azimuth>106.08</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.126778" lon="6.336497"><desc>turn left onto B 57</desc><extensions><gh:distance>47.2</gh:distance><gh:time>2359</gh:time><gh:direction>N</gh:direction><gh:azimuth>7.67</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="51.127196" lon="6.336614"><desc>continue onto Schriefersmühle, B 57</desc><extensions><gh:distance>1502.2</gh:distance><gh:time>75108</gh:time><gh:direction>N</gh:direction><gh:azimuth>8.04</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.139072" lon="6.34484"><desc>continue onto B 57</desc><extensions><gh:distance>119.4</gh:distance><gh:time>5968</gh:time><gh:direction>NE</gh:direction><gh:azimuth>32.88</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.140045" lon="6.345538"><extensions><gh:distance>41.6</gh:distance><gh:time>2340</gh:time><gh:direction>NE</gh:direction><gh:azimuth>50.2</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="51.140276" lon="6.346006"><desc>turn slight right onto L 370</desc><extensions><gh:distance>22.5</gh:distance><gh:time>1268</gh:time><gh:direction>E</gh:direction><gh:azimuth>82.02</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="51.140322" lon="6.346318"><desc>continue onto Erkelenzer Straße, L 370</desc><extensions><gh:distance>353.8</gh:distance><gh:time>19903</gh:time><gh:direction>E</gh:direction><gh:azimuth>74.58</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.142469" lon="6.349984"><desc>turn slight right onto L 370</desc><extensions><gh:distance>65.1</gh:distance><gh:time>3664</gh:time><gh:direction>NE</gh:direction><gh:azimuth>52.9</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="51.142855" lon="6.350679"><desc>At roundabout, take exit 1 onto L 370</desc><extensions><gh:distance>4279.1</gh:distance><gh:time>340280</gh:time><gh:direction>E</gh:direction><gh:azimuth>85.32</gh:azimuth><gh:sign>6</gh:sign></extensions></rtept>
+<rtept lat="51.1549" lon="6.407341"><desc>continue onto Dahlener Straße, L 370</desc><extensions><gh:distance>2687.5</gh:distance><gh:time>292268</gh:time><gh:direction>NE</gh:direction><gh:azimuth>48.35</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="51.165728" lon="6.43873"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:sign>4</gh:sign></extensions></rtept>
+</rte>
+<trk><name>GraphHopper Track</name><trkseg>
+<trkpt lat="51.133828" lon="6.303239"><time>2017-03-21T21:18:30Z</time></trkpt>
+<trkpt lat="51.133336" lon="6.304387"><time>2017-03-21T21:18:43Z</time></trkpt>
+<trkpt lat="51.133045" lon="6.305382"><time>2017-03-21T21:18:53Z</time></trkpt>
+<trkpt lat="51.132979" lon="6.305763"><time>2017-03-21T21:18:56Z</time></trkpt>
+<trkpt lat="51.133076" lon="6.306415"><time>2017-03-21T21:19:02Z</time></trkpt>
+<trkpt lat="51.133074" lon="6.306668"><time>2017-03-21T21:19:04Z</time></trkpt>
+<trkpt lat="51.133033" lon="6.306881"><time>2017-03-21T21:19:06Z</time></trkpt>
+<trkpt lat="51.132981" lon="6.30704"><time>2017-03-21T21:19:08Z</time></trkpt>
+<trkpt lat="51.132787" lon="6.307482"><time>2017-03-21T21:19:13Z</time></trkpt>
+<trkpt lat="51.1327" lon="6.307753"><time>2017-03-21T21:19:16Z</time></trkpt>
+<trkpt lat="51.132308" lon="6.30905"><time>2017-03-21T21:19:28Z</time></trkpt>
+<trkpt lat="51.132131" lon="6.309541"><time>2017-03-21T21:19:34Z</time></trkpt>
+<trkpt lat="51.131773" lon="6.310729"><time>2017-03-21T21:19:45Z</time></trkpt>
+<trkpt lat="51.131592" lon="6.311392"><time>2017-03-21T21:19:52Z</time></trkpt>
+<trkpt lat="51.131529" lon="6.311529"><time>2017-03-21T21:19:53Z</time></trkpt>
+<trkpt lat="51.13136" lon="6.312117"><time>2017-03-21T21:19:59Z</time></trkpt>
+<trkpt lat="51.131313" lon="6.312254"><time>2017-03-21T21:20:01Z</time></trkpt>
+<trkpt lat="51.130972" lon="6.312012"><time>2017-03-21T21:20:04Z</time></trkpt>
+<trkpt lat="51.130847" lon="6.311978"><time>2017-03-21T21:20:05Z</time></trkpt>
+<trkpt lat="51.130704" lon="6.311959"><time>2017-03-21T21:20:06Z</time></trkpt>
+<trkpt lat="51.130335" lon="6.311972"><time>2017-03-21T21:20:09Z</time></trkpt>
+<trkpt lat="51.130206" lon="6.312013"><time>2017-03-21T21:20:10Z</time></trkpt>
+<trkpt lat="51.130249" lon="6.312191"><time>2017-03-21T21:20:11Z</time></trkpt>
+<trkpt lat="51.130331" lon="6.312664"><time>2017-03-21T21:20:13Z</time></trkpt>
+<trkpt lat="51.130414" lon="6.313306"><time>2017-03-21T21:20:16Z</time></trkpt>
+<trkpt lat="51.130451" lon="6.31383"><time>2017-03-21T21:20:18Z</time></trkpt>
+<trkpt lat="51.130454" lon="6.314145"><time>2017-03-21T21:20:19Z</time></trkpt>
+<trkpt lat="51.130465" lon="6.314478"><time>2017-03-21T21:20:20Z</time></trkpt>
+<trkpt lat="51.130434" lon="6.314901"><time>2017-03-21T21:20:22Z</time></trkpt>
+<trkpt lat="51.130026" lon="6.317606"><time>2017-03-21T21:20:33Z</time></trkpt>
+<trkpt lat="51.129471" lon="6.32043"><time>2017-03-21T21:20:45Z</time></trkpt>
+<trkpt lat="51.129434" lon="6.320613"><time>2017-03-21T21:20:45Z</time></trkpt>
+<trkpt lat="51.129413" lon="6.320721"><time>2017-03-21T21:20:46Z</time></trkpt>
+<trkpt lat="51.129281" lon="6.321443"><time>2017-03-21T21:20:49Z</time></trkpt>
+<trkpt lat="51.129142" lon="6.322185"><time>2017-03-21T21:20:52Z</time></trkpt>
+<trkpt lat="51.129116" lon="6.32232"><time>2017-03-21T21:20:52Z</time></trkpt>
+<trkpt lat="51.128101" lon="6.327932"><time>2017-03-21T21:21:15Z</time></trkpt>
+<trkpt lat="51.127772" lon="6.329799"><time>2017-03-21T21:21:23Z</time></trkpt>
+<trkpt lat="51.127548" lon="6.331173"><time>2017-03-21T21:21:28Z</time></trkpt>
+<trkpt lat="51.127021" lon="6.333696"><time>2017-03-21T21:21:39Z</time></trkpt>
+<trkpt lat="51.126961" lon="6.33406"><time>2017-03-21T21:21:40Z</time></trkpt>
+<trkpt lat="51.126918" lon="6.33445"><time>2017-03-21T21:21:42Z</time></trkpt>
+<trkpt lat="51.126884" lon="6.335668"><time>2017-03-21T21:21:47Z</time></trkpt>
+<trkpt lat="51.126789" lon="6.336376"><time>2017-03-21T21:21:50Z</time></trkpt>
+<trkpt lat="51.126778" lon="6.336497"><time>2017-03-21T21:21:50Z</time></trkpt>
+<trkpt lat="51.126874" lon="6.336518"><time>2017-03-21T21:21:51Z</time></trkpt>
+<trkpt lat="51.127196" lon="6.336614"><time>2017-03-21T21:21:52Z</time></trkpt>
+<trkpt lat="51.130396" lon="6.337335"><time>2017-03-21T21:22:10Z</time></trkpt>
+<trkpt lat="51.131152" lon="6.337436"><time>2017-03-21T21:22:15Z</time></trkpt>
+<trkpt lat="51.132249" lon="6.337724"><time>2017-03-21T21:22:21Z</time></trkpt>
+<trkpt lat="51.133235" lon="6.337927"><time>2017-03-21T21:22:26Z</time></trkpt>
+<trkpt lat="51.133826" lon="6.338105"><time>2017-03-21T21:22:30Z</time></trkpt>
+<trkpt lat="51.134143" lon="6.338253"><time>2017-03-21T21:22:31Z</time></trkpt>
+<trkpt lat="51.134481" lon="6.338478"><time>2017-03-21T21:22:34Z</time></trkpt>
+<trkpt lat="51.134713" lon="6.33867"><time>2017-03-21T21:22:35Z</time></trkpt>
+<trkpt lat="51.135296" lon="6.339265"><time>2017-03-21T21:22:39Z</time></trkpt>
+<trkpt lat="51.135721" lon="6.339914"><time>2017-03-21T21:22:42Z</time></trkpt>
+<trkpt lat="51.136592" lon="6.341435"><time>2017-03-21T21:22:49Z</time></trkpt>
+<trkpt lat="51.137041" lon="6.342166"><time>2017-03-21T21:22:53Z</time></trkpt>
+<trkpt lat="51.137328" lon="6.342593"><time>2017-03-21T21:22:55Z</time></trkpt>
+<trkpt lat="51.138135" lon="6.343742"><time>2017-03-21T21:23:01Z</time></trkpt>
+<trkpt lat="51.138561" lon="6.344272"><time>2017-03-21T21:23:04Z</time></trkpt>
+<trkpt lat="51.138976" lon="6.344742"><time>2017-03-21T21:23:07Z</time></trkpt>
+<trkpt lat="51.139072" lon="6.34484"><time>2017-03-21T21:23:07Z</time></trkpt>
+<trkpt lat="51.139274" lon="6.345048"><time>2017-03-21T21:23:09Z</time></trkpt>
+<trkpt lat="51.139515" lon="6.345247"><time>2017-03-21T21:23:10Z</time></trkpt>
+<trkpt lat="51.139946" lon="6.345495"><time>2017-03-21T21:23:13Z</time></trkpt>
+<trkpt lat="51.140045" lon="6.345538"><time>2017-03-21T21:23:13Z</time></trkpt>
+<trkpt lat="51.140231" lon="6.345894"><time>2017-03-21T21:23:15Z</time></trkpt>
+<trkpt lat="51.140276" lon="6.346006"><time>2017-03-21T21:23:16Z</time></trkpt>
+<trkpt lat="51.140293" lon="6.346196"><time>2017-03-21T21:23:17Z</time></trkpt>
+<trkpt lat="51.140322" lon="6.346318"><time>2017-03-21T21:23:17Z</time></trkpt>
+<trkpt lat="51.140378" lon="6.346644"><time>2017-03-21T21:23:18Z</time></trkpt>
+<trkpt lat="51.140491" lon="6.346947"><time>2017-03-21T21:23:20Z</time></trkpt>
+<trkpt lat="51.141874" lon="6.349159"><time>2017-03-21T21:23:32Z</time></trkpt>
+<trkpt lat="51.142238" lon="6.349673"><time>2017-03-21T21:23:35Z</time></trkpt>
+<trkpt lat="51.142469" lon="6.349984"><time>2017-03-21T21:23:37Z</time></trkpt>
+<trkpt lat="51.142569" lon="6.350195"><time>2017-03-21T21:23:38Z</time></trkpt>
+<trkpt lat="51.1428" lon="6.350543"><time>2017-03-21T21:23:40Z</time></trkpt>
+<trkpt lat="51.142855" lon="6.350679"><time>2017-03-21T21:23:41Z</time></trkpt>
+<trkpt lat="51.142863" lon="6.350828"><time>2017-03-21T21:23:41Z</time></trkpt>
+<trkpt lat="51.142832" lon="6.351202"><time>2017-03-21T21:23:44Z</time></trkpt>
+<trkpt lat="51.142846" lon="6.351355"><time>2017-03-21T21:23:44Z</time></trkpt>
+<trkpt lat="51.143375" lon="6.356392"><time>2017-03-21T21:24:13Z</time></trkpt>
+<trkpt lat="51.143719" lon="6.360052"><time>2017-03-21T21:24:33Z</time></trkpt>
+<trkpt lat="51.144019" lon="6.362885"><time>2017-03-21T21:24:49Z</time></trkpt>
+<trkpt lat="51.144113" lon="6.363491"><time>2017-03-21T21:24:53Z</time></trkpt>
+<trkpt lat="51.144282" lon="6.36414"><time>2017-03-21T21:24:57Z</time></trkpt>
+<trkpt lat="51.144417" lon="6.36452"><time>2017-03-21T21:24:59Z</time></trkpt>
+<trkpt lat="51.145333" lon="6.366623"><time>2017-03-21T21:25:13Z</time></trkpt>
+<trkpt lat="51.145514" lon="6.367092"><time>2017-03-21T21:25:16Z</time></trkpt>
+<trkpt lat="51.146399" lon="6.369876"><time>2017-03-21T21:25:34Z</time></trkpt>
+<trkpt lat="51.146515" lon="6.370147"><time>2017-03-21T21:25:35Z</time></trkpt>
+<trkpt lat="51.146792" lon="6.370647"><time>2017-03-21T21:25:39Z</time></trkpt>
+<trkpt lat="51.147384" lon="6.371435"><time>2017-03-21T21:25:46Z</time></trkpt>
+<trkpt lat="51.147611" lon="6.371792"><time>2017-03-21T21:25:49Z</time></trkpt>
+<trkpt lat="51.147833" lon="6.372363"><time>2017-03-21T21:25:52Z</time></trkpt>
+<trkpt lat="51.148077" lon="6.373149"><time>2017-03-21T21:25:57Z</time></trkpt>
+<trkpt lat="51.148603" lon="6.375096"><time>2017-03-21T21:26:09Z</time></trkpt>
+<trkpt lat="51.148883" lon="6.376294"><time>2017-03-21T21:26:16Z</time></trkpt>
+<trkpt lat="51.149519" lon="6.379464"><time>2017-03-21T21:26:35Z</time></trkpt>
+<trkpt lat="51.149626" lon="6.380144"><time>2017-03-21T21:26:39Z</time></trkpt>
+<trkpt lat="51.149674" lon="6.380567"><time>2017-03-21T21:26:41Z</time></trkpt>
+<trkpt lat="51.149767" lon="6.383679"><time>2017-03-21T21:26:58Z</time></trkpt>
+<trkpt lat="51.149776" lon="6.384776"><time>2017-03-21T21:27:04Z</time></trkpt>
+<trkpt lat="51.149864" lon="6.387463"><time>2017-03-21T21:27:19Z</time></trkpt>
+<trkpt lat="51.149924" lon="6.388117"><time>2017-03-21T21:27:23Z</time></trkpt>
+<trkpt lat="51.150228" lon="6.390707"><time>2017-03-21T21:27:37Z</time></trkpt>
+<trkpt lat="51.150797" lon="6.395963"><time>2017-03-21T21:28:07Z</time></trkpt>
+<trkpt lat="51.150992" lon="6.397465"><time>2017-03-21T21:28:16Z</time></trkpt>
+<trkpt lat="51.151127" lon="6.398173"><time>2017-03-21T21:28:20Z</time></trkpt>
+<trkpt lat="51.151259" lon="6.398746"><time>2017-03-21T21:28:23Z</time></trkpt>
+<trkpt lat="51.151542" lon="6.399699"><time>2017-03-21T21:28:29Z</time></trkpt>
+<trkpt lat="51.151989" lon="6.400967"><time>2017-03-21T21:28:37Z</time></trkpt>
+<trkpt lat="51.152578" lon="6.402542"><time>2017-03-21T21:28:47Z</time></trkpt>
+<trkpt lat="51.152826" lon="6.403262"><time>2017-03-21T21:28:52Z</time></trkpt>
+<trkpt lat="51.153112" lon="6.403953"><time>2017-03-21T21:28:56Z</time></trkpt>
+<trkpt lat="51.153474" lon="6.404735"><time>2017-03-21T21:29:02Z</time></trkpt>
+<trkpt lat="51.153967" lon="6.405672"><time>2017-03-21T21:29:08Z</time></trkpt>
+<trkpt lat="51.154798" lon="6.40716"><time>2017-03-21T21:29:20Z</time></trkpt>
+<trkpt lat="51.1549" lon="6.407341"><time>2017-03-21T21:29:21Z</time></trkpt>
+<trkpt lat="51.160925" lon="6.418142"><time>2017-03-21T21:31:11Z</time></trkpt>
+<trkpt lat="51.161621" lon="6.419492"><time>2017-03-21T21:31:24Z</time></trkpt>
+<trkpt lat="51.162889" lon="6.422252"><time>2017-03-21T21:31:50Z</time></trkpt>
+<trkpt lat="51.163332" lon="6.423097"><time>2017-03-21T21:31:58Z</time></trkpt>
+<trkpt lat="51.163827" lon="6.423833"><time>2017-03-21T21:32:06Z</time></trkpt>
+<trkpt lat="51.164056" lon="6.424138"><time>2017-03-21T21:32:10Z</time></trkpt>
+<trkpt lat="51.164898" lon="6.42514"><time>2017-03-21T21:32:23Z</time></trkpt>
+<trkpt lat="51.165453" lon="6.425854"><time>2017-03-21T21:32:31Z</time></trkpt>
+<trkpt lat="51.166026" lon="6.426628"><time>2017-03-21T21:32:40Z</time></trkpt>
+<trkpt lat="51.166157" lon="6.426831"><time>2017-03-21T21:32:43Z</time></trkpt>
+<trkpt lat="51.166219" lon="6.427113"><time>2017-03-21T21:32:45Z</time></trkpt>
+<trkpt lat="51.166227" lon="6.427475"><time>2017-03-21T21:32:48Z</time></trkpt>
+<trkpt lat="51.166197" lon="6.428287"><time>2017-03-21T21:32:54Z</time></trkpt>
+<trkpt lat="51.166134" lon="6.429056"><time>2017-03-21T21:33:00Z</time></trkpt>
+<trkpt lat="51.1661" lon="6.429984"><time>2017-03-21T21:33:07Z</time></trkpt>
+<trkpt lat="51.166093" lon="6.430784"><time>2017-03-21T21:33:13Z</time></trkpt>
+<trkpt lat="51.166026" lon="6.432536"><time>2017-03-21T21:33:26Z</time></trkpt>
+<trkpt lat="51.165744" lon="6.438386"><time>2017-03-21T21:34:11Z</time></trkpt>
+<trkpt lat="51.165728" lon="6.43873"><time>2017-03-21T21:34:13Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
