@@ -3,7 +3,6 @@
 #Code developed by:
 #Jose Maia Neto - jmnt@ufmg.br, Juan Camilo Fonseca Galindo - juankmilofg@gmail.com
 #Code based on article:
-# Quddus, M. A., Noland, R. B. and Ochieng, W. Y. (2006). 
 # Ren, M. and Karimi, H. A. (2009). 
 #A chain-code-based map matching algorithm for wheelchair navigation.
 #T. GIS 13(2): 197–214.
