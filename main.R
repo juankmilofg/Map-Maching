@@ -72,8 +72,11 @@ if (is.object(trajetoria))
   times   <- as.numeric(trajetoria_full$time)
   lats    <- as.numeric(as.numeric(trajetoria_full$coords.x2))
   lons    <- as.numeric(as.numeric(trajetoria_full$coords.x1))
-  if (trajetoria_full$GPS.Bearing<180){heading <- as.numeric(trajetoria_full$GPS.Bearing)
-  }else{heading <- as.numeric(trajetoria_full$GPS.Bearing) - 360}
+  for(ii in c(1:length(rota$GPS.Bearing)))
+  {
+    if (rota$GPS.Bearing[ii]<180){heading[ii] <- as.numeric(rota$GPS.Bearing[ii])
+    }else{heading[ii] <- as.numeric(rota$GPS.Bearing[ii]) - 360}
+  }
   
   # Put everything in a dataframe and get rid of old variables
   geodf <- data.frame(lat = lats, lon = lons, time = times, heading = heading)
