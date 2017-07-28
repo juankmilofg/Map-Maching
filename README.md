@@ -21,3 +21,9 @@ A chain-code-based map matching algorithm for wheelchair navigation. \
 T. GIS 13(2): 197–214.
 
 The developed code uses parts of the work done by of the work done by Nikolai Gorte, http://github.com/ngort01/fuzzyMM 
+
+Trajectory databases are available in http://cpdee.ufmg.br/~juancamilofg/, his database is divided into groups:\
+DataSet1 (street very good, PDOP <2, 38 Trajectories)\
+DataSet2 (street good, 2  ≤ PDOP < 3, 49 Trajectories)\
+DataSet2 (street bad,  3  ≤ PDOP, 38 Trajectories)\
+DataSet0 (street full, 96 Trajectories)
