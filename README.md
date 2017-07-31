@@ -1,4 +1,4 @@
-# Map-Maching
+# Map-Matching
 Map-Matching algorithms
 
 Universidade Federal de Minas Gerais - Brazil \
